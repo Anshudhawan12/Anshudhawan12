@@ -74,4 +74,3 @@
 </p>
 
 <p align="center"><strong>✨ “Code with soul, build with purpose.”</strong></p>
-"# Playlist-Manager" 
